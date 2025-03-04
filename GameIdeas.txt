@@ -28,17 +28,4 @@ What Is the Win and Lose Condition?
 Win Condition: Successfully type all required words and escape the haunted house.
 Lose Condition: The ghost catches the player before they complete all the words.
 
-Pixel Fish Frenzy
-What is the game about?
-Pixel Fish Frenzy is a simple arcade-style game where the player controls a small fish that must eat smaller fish while avoiding larger predators. 
-The ocean is filled with dynamic obstacles, and background music changes as the fish grows and progresses.
-Why Do You Want to Build This Game?
-This game provides an opportunity to explore AI-driven enemy movement and an engaging growth mechanic. 
-It can be visually appealing and might work well on the web with simple yet satisfying gameplay.
-What Types of Interactions Are in the Game?
-Players use the mouse or keyboard to navigate the fish through the water. Eating smaller fish increases their size, while colliding with a larger predator results in a game over.
-What Is the Win and Lose Condition?
-Win Condition: Reach a certain size to become the biggest fish in the ocean.
-Lose Condition: Get eaten by a larger fish before reaching the goal.
-
 

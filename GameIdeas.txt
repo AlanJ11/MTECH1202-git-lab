@@ -1,0 +1,44 @@
+Rhythm Dodger
+What is the game about?
+Rhythm Dodger is a fast-paced game where players control a small character that must dodge obstacles that appear in sync with the music.
+The game generates hazards (like spikes, lasers, or enemies) that pulse to the beat of a background track. 
+The challenge is to survive as long as possible while collecting bonus points for precise movements.
+Why Do You Want to Build This Game?
+This game blends music and gameplay, making it engaging and immersive. 
+Since I’m interested in music production, this project would allow me to incorporate audio synchronization techniques while improving my game development skills. 
+Additionally, it's an accessible and replayable experience, making it perfect for web-based play.
+What Types of Interactions Are in the Game?
+The player moves their character using the arrow keys or WASD to avoid incoming hazards. There may also be a jump or dash mechanic to help dodge obstacles. 
+The game’s pace increases over time, making it more challenging.
+What Is the Win and Lose Condition?
+Win Condition: The player reaches the end of a song without taking damage.
+Lose Condition: The player gets hit by an obstacle and loses all health.
+
+Haunted Typing Escape
+What is the game about?
+In Haunted Typing Escape, the player is trapped in a haunted house, and the only way to escape is by typing words that appear on the screen before a ghost reaches them. 
+The game features eerie sound effects, sudden ghostly appearances, and escalating difficulty as the words become longer and appear more quickly.
+Why Do You Want to Build This Game?
+This game encourages players to improve their typing speed in a fun and slightly spooky way. 
+It also provides an opportunity to experiment with interactive sound design, such as ambient horror sounds, jump scares, and eerie whispers that intensify the atmosphere.
+What Types of Interactions Are in the Game?
+Players type words as they appear on the screen. The faster they type, the more distance they create between themselves and the ghost. 
+The ghost gets closer if they make too many mistakes or take too long.
+What Is the Win and Lose Condition?
+Win Condition: Successfully type all required words and escape the haunted house.
+Lose Condition: The ghost catches the player before they complete all the words.
+
+Pixel Fish Frenzy
+What is the game about?
+Pixel Fish Frenzy is a simple arcade-style game where the player controls a small fish that must eat smaller fish while avoiding larger predators. 
+The ocean is filled with dynamic obstacles, and background music changes as the fish grows and progresses.
+Why Do You Want to Build This Game?
+This game provides an opportunity to explore AI-driven enemy movement and an engaging growth mechanic. 
+It can be visually appealing and might work well on the web with simple yet satisfying gameplay.
+What Types of Interactions Are in the Game?
+Players use the mouse or keyboard to navigate the fish through the water. Eating smaller fish increases their size, while colliding with a larger predator results in a game over.
+What Is the Win and Lose Condition?
+Win Condition: Reach a certain size to become the biggest fish in the ocean.
+Lose Condition: Get eaten by a larger fish before reaching the goal.
+
+
